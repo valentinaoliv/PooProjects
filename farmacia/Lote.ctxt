@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lote
+comment1.params=
+comment1.target=Lote()
+comment2.params=p
+comment2.target=void\ agregarProducto(Producto)
+comment3.params=
+comment3.target=void\ imprimirValorLote()
+numComments=4

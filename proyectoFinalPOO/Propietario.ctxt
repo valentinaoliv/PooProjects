@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Propietario
+comment1.params=nombre\ numIdentificacion\ edad\ mail\ numCelular\ numCasa\ numManzana\ autorizacion\ c\ numPropiedad
+comment1.target=Propietario(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ boolean,\ Casa,\ java.lang.String)
+comment2.params=
+comment2.target=Propietario()
+comment3.params=c
+comment3.target=void\ agregarCasa(Casa)
+comment4.params=
+comment4.target=void\ imprimirRegistro()
+numComments=5

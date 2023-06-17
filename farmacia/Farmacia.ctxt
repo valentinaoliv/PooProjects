@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Farmacia
+comment1.params=nombreAlmacen
+comment1.target=Farmacia(java.lang.String)
+comment2.params=nAlmacen\ p
+comment2.target=void\ agregarProducto(int,\ Producto)
+comment3.params=
+comment3.target=void\ calcularValorAlmacenamiento()
+numComments=4

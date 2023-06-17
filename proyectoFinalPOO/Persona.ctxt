@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=nombre\ numIdentificacion\ edad\ mail\ numCelular
+comment1.target=Persona(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Persona()
+comment3.params=
+comment3.target=java.lang.String\ getNumIdentificacion()
+comment4.params=
+comment4.target=void\ imprimirRegistro()
+numComments=5

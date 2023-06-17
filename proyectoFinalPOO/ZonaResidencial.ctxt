@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ZonaResidencial
+comment1.params=nombreZona\ encargado
+comment1.target=ZonaResidencial(java.lang.String,\ Persona)
+numComments=2

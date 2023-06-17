@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AreasComunes
+comment1.params=nombreZona\ encargado
+comment1.target=AreasComunes(java.lang.String,\ Persona)
+comment2.params=j
+comment2.target=void\ agregarResidentes(Residente)
+numComments=3
